@@ -2,17 +2,14 @@
 import {
   MapContainer,
   TileLayer,
-  Marker,
-  Popup,
+
   Polygon,
-  GeoJSON,
+  
 } from "react-leaflet";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import {
-  CustomLeftArrow,
-  CustomRightArrow,
-  CustomButtonGroup,
+ 
   CustomButtonGroupAsArrows,
 } from "./Custom";
 import LocationMarker from "./LocationMarker";
